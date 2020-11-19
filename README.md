@@ -13,7 +13,7 @@
 
 # Description of the Topology
 
-## The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the Damn Vulnerable Web Application. The usage of which is to test various regular web vulnerability, with various difficultly levels, in a simple UI.
+### The main purpose of this network is to expose a load-balanced and monitored instance of DVWA, the Damn Vulnerable Web Application. The usage of which is to test various regular web vulnerability, with various difficultly levels, in a simple UI.
 
 ## First and foremost - the load balancer's off-loading function, or distribution of traffic across multiple servers, mitigates Denial of Service attacks. This highly valuable security measure alone highlights the benefit of a load balancer.
 
